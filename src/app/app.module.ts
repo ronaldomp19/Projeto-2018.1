@@ -7,6 +7,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PageNavComponent } from './pages/page-nav/page-nav.component';
 import { AddUsuarioComponent } from './pages/add-usuario/add-usuario.component';
+import { AddEventoComponent } from './pages/add-evento/add-evento.component';
 import { ListUsuarioComponent } from './pages/list-usuario/list-usuario.component';
 
 @NgModule({
